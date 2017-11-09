@@ -1,0 +1,28 @@
+html {
+    background: grey
+}
+header {
+    text-align: right;
+    height: 75px;
+    background: black;
+}
+body {
+    color: white;
+    font-family: "Didot", serif;
+    font-size: 20;
+}
+h1 {
+    color: white;
+    font-family: "Didot", serif;
+    font-size: 40;
+    font-weight: 100;
+}
+img {
+    display: block;
+    margin: auto;
+}
+a {
+    color: red;
+    text-decoration: none;
+    margin-right: 25px;
+}
